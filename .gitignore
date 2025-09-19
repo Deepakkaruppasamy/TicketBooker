@@ -4,3 +4,9 @@ client/public/models/*.glb
 # Build output
 client/dist/
 
+
+# Env files
+*.env
+server/.env
+client/.env
+
