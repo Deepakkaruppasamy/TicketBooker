@@ -1,1 +1,6 @@
 node_modules
+# Large binary assets
+client/public/models/*.glb
+# Build output
+client/dist/
+
